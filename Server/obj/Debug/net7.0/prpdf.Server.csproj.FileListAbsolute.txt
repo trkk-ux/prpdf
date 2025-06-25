@@ -1,0 +1,8 @@
+C:\x\prpdf\Server\obj\Debug\net7.0\prpdf.Server.csproj.AssemblyReference.cache
+C:\x\prpdf\Server\obj\Debug\net7.0\prpdf.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\x\prpdf\Server\obj\Debug\net7.0\prpdf.Server.AssemblyInfoInputs.cache
+C:\x\prpdf\Server\obj\Debug\net7.0\prpdf.Server.AssemblyInfo.cs
+C:\x\prpdf\Server\obj\Debug\net7.0\prpdf.Server.csproj.CoreCompileInputs.cache
+C:\x\prpdf\Server\obj\Debug\net7.0\prpdf.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\x\prpdf\Server\obj\Debug\net7.0\prpdf.Server.RazorAssemblyInfo.cache
+C:\x\prpdf\Server\obj\Debug\net7.0\prpdf.Server.RazorAssemblyInfo.cs

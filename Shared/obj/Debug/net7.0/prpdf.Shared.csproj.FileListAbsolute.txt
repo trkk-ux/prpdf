@@ -1,0 +1,11 @@
+C:\x\prpdf\Shared\bin\Debug\net7.0\prpdf.Shared.deps.json
+C:\x\prpdf\Shared\bin\Debug\net7.0\prpdf.Shared.dll
+C:\x\prpdf\Shared\bin\Debug\net7.0\prpdf.Shared.pdb
+C:\x\prpdf\Shared\obj\Debug\net7.0\prpdf.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\x\prpdf\Shared\obj\Debug\net7.0\prpdf.Shared.AssemblyInfoInputs.cache
+C:\x\prpdf\Shared\obj\Debug\net7.0\prpdf.Shared.AssemblyInfo.cs
+C:\x\prpdf\Shared\obj\Debug\net7.0\prpdf.Shared.csproj.CoreCompileInputs.cache
+C:\x\prpdf\Shared\obj\Debug\net7.0\prpdf.Shared.dll
+C:\x\prpdf\Shared\obj\Debug\net7.0\refint\prpdf.Shared.dll
+C:\x\prpdf\Shared\obj\Debug\net7.0\prpdf.Shared.pdb
+C:\x\prpdf\Shared\obj\Debug\net7.0\ref\prpdf.Shared.dll
